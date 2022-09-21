@@ -1,0 +1,1190 @@
+no access-list 110
+access-list 110 deny ip 1.10.16.0 0.0.15.255 any
+access-list 110 deny ip 1.19.0.0 0.0.255.255 any
+access-list 110 deny ip 1.32.128.0 0.0.63.255 any
+access-list 110 deny ip 2.56.192.0 0.0.3.255 any
+access-list 110 deny ip 2.57.232.0 0.0.1.255 any
+access-list 110 deny ip 2.57.234.0 0.0.1.255 any
+access-list 110 deny ip 2.59.200.0 0.0.3.255 any
+access-list 110 deny ip 5.134.128.0 0.0.31.255 any
+access-list 110 deny ip 5.180.4.0 0.0.3.255 any
+access-list 110 deny ip 5.183.60.0 0.0.3.255 any
+access-list 110 deny ip 5.188.10.0 0.0.1.255 any
+access-list 110 deny ip 23.252.160.0 0.0.15.255 any
+access-list 110 deny ip 24.137.16.0 0.0.15.255 any
+access-list 110 deny ip 24.170.208.0 0.0.15.255 any
+access-list 110 deny ip 24.233.0.0 0.0.31.255 any
+access-list 110 deny ip 24.236.0.0 0.0.31.255 any
+access-list 110 deny ip 27.126.160.0 0.0.15.255 any
+access-list 110 deny ip 27.146.0.0 0.0.255.255 any
+access-list 110 deny ip 31.14.65.0 0.0.0.255 any
+access-list 110 deny ip 36.0.8.0 0.0.7.255 any
+access-list 110 deny ip 36.37.48.0 0.0.15.255 any
+access-list 110 deny ip 36.116.0.0 0.0.255.255 any
+access-list 110 deny ip 36.119.0.0 0.0.255.255 any
+access-list 110 deny ip 37.156.64.0 0.0.1.255 any
+access-list 110 deny ip 37.156.173.0 0.0.0.255 any
+access-list 110 deny ip 41.72.0.0 0.0.63.255 any
+access-list 110 deny ip 42.0.32.0 0.0.31.255 any
+access-list 110 deny ip 42.1.128.0 0.0.127.255 any
+access-list 110 deny ip 42.96.0.0 0.0.63.255 any
+access-list 110 deny ip 42.128.0.0 0.15.255.255 any
+access-list 110 deny ip 42.160.0.0 0.15.255.255 any
+access-list 110 deny ip 42.208.0.0 0.15.255.255 any
+access-list 110 deny ip 43.229.52.0 0.0.3.255 any
+access-list 110 deny ip 43.236.0.0 0.0.255.255 any
+access-list 110 deny ip 43.250.116.0 0.0.3.255 any
+access-list 110 deny ip 43.252.80.0 0.0.3.255 any
+access-list 110 deny ip 45.9.148.0 0.0.3.255 any
+access-list 110 deny ip 45.65.32.0 0.0.3.255 any
+access-list 110 deny ip 45.80.28.0 0.0.3.255 any
+access-list 110 deny ip 45.80.248.0 0.0.1.255 any
+access-list 110 deny ip 45.86.20.0 0.0.3.255 any
+access-list 110 deny ip 45.86.48.0 0.0.3.255 any
+access-list 110 deny ip 45.119.40.0 0.0.3.255 any
+access-list 110 deny ip 45.121.204.0 0.0.3.255 any
+access-list 110 deny ip 45.186.152.0 0.0.3.255 any
+access-list 110 deny ip 45.220.64.0 0.0.63.255 any
+access-list 110 deny ip 46.102.177.0 0.0.0.255 any
+access-list 110 deny ip 46.102.178.0 0.0.1.255 any
+access-list 110 deny ip 46.102.182.0 0.0.1.255 any
+access-list 110 deny ip 46.102.190.0 0.0.0.255 any
+access-list 110 deny ip 46.174.204.0 0.0.3.255 any
+access-list 110 deny ip 49.156.160.0 0.0.31.255 any
+access-list 110 deny ip 49.238.64.0 0.0.63.255 any
+access-list 110 deny ip 58.14.0.0 0.1.255.255 any
+access-list 110 deny ip 60.233.0.0 0.0.255.255 any
+access-list 110 deny ip 61.11.224.0 0.0.31.255 any
+access-list 110 deny ip 61.45.251.0 0.0.0.255 any
+access-list 110 deny ip 63.66.60.0 0.0.1.255 any
+access-list 110 deny ip 64.15.0.0 0.0.15.255 any
+access-list 110 deny ip 64.69.16.0 0.0.15.255 any
+access-list 110 deny ip 64.92.224.0 0.0.15.255 any
+access-list 110 deny ip 64.250.144.0 0.0.15.255 any
+access-list 110 deny ip 64.254.80.0 0.0.15.255 any
+access-list 110 deny ip 65.97.48.0 0.0.15.255 any
+access-list 110 deny ip 67.213.112.0 0.0.15.255 any
+access-list 110 deny ip 68.66.48.0 0.0.15.255 any
+access-list 110 deny ip 69.8.64.0 0.0.15.255 any
+access-list 110 deny ip 69.8.96.0 0.0.15.255 any
+access-list 110 deny ip 72.46.24.0 0.0.3.255 any
+access-list 110 deny ip 74.114.148.0 0.0.3.255 any
+access-list 110 deny ip 76.191.0.0 0.0.15.255 any
+access-list 110 deny ip 77.81.84.0 0.0.1.255 any
+access-list 110 deny ip 77.81.86.0 0.0.0.255 any
+access-list 110 deny ip 77.81.89.0 0.0.0.255 any
+access-list 110 deny ip 77.81.90.0 0.0.1.255 any
+access-list 110 deny ip 80.66.64.0 0.0.0.255 any
+access-list 110 deny ip 83.175.0.0 0.0.63.255 any
+access-list 110 deny ip 84.238.160.0 0.0.3.255 any
+access-list 110 deny ip 85.121.39.0 0.0.0.255 any
+access-list 110 deny ip 85.209.4.0 0.0.3.255 any
+access-list 110 deny ip 86.62.28.0 0.0.3.255 any
+access-list 110 deny ip 86.104.0.0 0.0.1.255 any
+access-list 110 deny ip 86.104.2.0 0.0.0.255 any
+access-list 110 deny ip 86.104.212.0 0.0.1.255 any
+access-list 110 deny ip 86.104.222.0 0.0.1.255 any
+access-list 110 deny ip 86.104.224.0 0.0.1.255 any
+access-list 110 deny ip 86.105.2.0 0.0.0.255 any
+access-list 110 deny ip 86.105.6.0 0.0.0.255 any
+access-list 110 deny ip 86.105.176.0 0.0.0.255 any
+access-list 110 deny ip 86.105.178.0 0.0.0.255 any
+access-list 110 deny ip 86.105.184.0 0.0.1.255 any
+access-list 110 deny ip 86.105.186.0 0.0.0.255 any
+access-list 110 deny ip 86.105.229.0 0.0.0.255 any
+access-list 110 deny ip 86.105.230.0 0.0.0.255 any
+access-list 110 deny ip 86.105.242.0 0.0.1.255 any
+access-list 110 deny ip 86.106.10.0 0.0.0.255 any
+access-list 110 deny ip 86.106.13.0 0.0.0.255 any
+access-list 110 deny ip 86.106.14.0 0.0.1.255 any
+access-list 110 deny ip 86.106.94.0 0.0.1.255 any
+access-list 110 deny ip 86.106.105.0 0.0.0.255 any
+access-list 110 deny ip 86.106.106.0 0.0.1.255 any
+access-list 110 deny ip 86.106.109.0 0.0.0.255 any
+access-list 110 deny ip 86.106.110.0 0.0.1.255 any
+access-list 110 deny ip 86.106.114.0 0.0.1.255 any
+access-list 110 deny ip 86.106.116.0 0.0.1.255 any
+access-list 110 deny ip 86.106.118.0 0.0.0.255 any
+access-list 110 deny ip 86.106.138.0 0.0.1.255 any
+access-list 110 deny ip 86.106.140.0 0.0.1.255 any
+access-list 110 deny ip 86.106.174.0 0.0.1.255 any
+access-list 110 deny ip 86.107.72.0 0.0.0.255 any
+access-list 110 deny ip 86.107.193.0 0.0.0.255 any
+access-list 110 deny ip 86.107.194.0 0.0.1.255 any
+access-list 110 deny ip 87.251.79.0 0.0.0.255 any
+access-list 110 deny ip 88.218.148.0 0.0.3.255 any
+access-list 110 deny ip 89.32.43.0 0.0.0.255 any
+access-list 110 deny ip 89.32.170.0 0.0.0.255 any
+access-list 110 deny ip 89.32.202.0 0.0.0.255 any
+access-list 110 deny ip 89.33.46.0 0.0.1.255 any
+access-list 110 deny ip 89.33.116.0 0.0.0.255 any
+access-list 110 deny ip 89.33.134.0 0.0.0.255 any
+access-list 110 deny ip 89.33.198.0 0.0.1.255 any
+access-list 110 deny ip 89.33.200.0 0.0.1.255 any
+access-list 110 deny ip 89.33.206.0 0.0.0.255 any
+access-list 110 deny ip 89.33.250.0 0.0.1.255 any
+access-list 110 deny ip 89.33.254.0 0.0.1.255 any
+access-list 110 deny ip 89.34.0.0 0.0.0.255 any
+access-list 110 deny ip 89.34.4.0 0.0.0.255 any
+access-list 110 deny ip 89.34.102.0 0.0.0.255 any
+access-list 110 deny ip 89.34.104.0 0.0.1.255 any
+access-list 110 deny ip 89.35.54.0 0.0.0.255 any
+access-list 110 deny ip 89.35.89.0 0.0.0.255 any
+access-list 110 deny ip 89.35.90.0 0.0.0.255 any
+access-list 110 deny ip 89.36.38.0 0.0.1.255 any
+access-list 110 deny ip 89.36.136.0 0.0.0.255 any
+access-list 110 deny ip 89.36.138.0 0.0.1.255 any
+access-list 110 deny ip 89.36.141.0 0.0.0.255 any
+access-list 110 deny ip 89.37.92.0 0.0.1.255 any
+access-list 110 deny ip 89.37.94.0 0.0.0.255 any
+access-list 110 deny ip 89.37.96.0 0.0.0.255 any
+access-list 110 deny ip 89.37.129.0 0.0.0.255 any
+access-list 110 deny ip 89.37.130.0 0.0.1.255 any
+access-list 110 deny ip 89.37.132.0 0.0.1.255 any
+access-list 110 deny ip 89.37.134.0 0.0.0.255 any
+access-list 110 deny ip 89.38.240.0 0.0.0.255 any
+access-list 110 deny ip 89.39.69.0 0.0.0.255 any
+access-list 110 deny ip 89.39.212.0 0.0.0.255 any
+access-list 110 deny ip 89.39.215.0 0.0.0.255 any
+access-list 110 deny ip 89.39.241.0 0.0.0.255 any
+access-list 110 deny ip 89.40.138.0 0.0.0.255 any
+access-list 110 deny ip 89.40.140.0 0.0.1.255 any
+access-list 110 deny ip 89.40.207.0 0.0.0.255 any
+access-list 110 deny ip 89.40.209.0 0.0.0.255 any
+access-list 110 deny ip 89.41.27.0 0.0.0.255 any
+access-list 110 deny ip 89.41.28.0 0.0.1.255 any
+access-list 110 deny ip 89.41.49.0 0.0.0.255 any
+access-list 110 deny ip 89.41.50.0 0.0.1.255 any
+access-list 110 deny ip 89.41.189.0 0.0.0.255 any
+access-list 110 deny ip 89.41.190.0 0.0.1.255 any
+access-list 110 deny ip 89.42.10.0 0.0.0.255 any
+access-list 110 deny ip 89.42.152.0 0.0.1.255 any
+access-list 110 deny ip 89.42.154.0 0.0.0.255 any
+access-list 110 deny ip 89.45.82.0 0.0.0.255 any
+access-list 110 deny ip 89.46.8.0 0.0.3.255 any
+access-list 110 deny ip 89.46.47.0 0.0.0.255 any
+access-list 110 deny ip 91.132.164.0 0.0.3.255 any
+access-list 110 deny ip 91.200.12.0 0.0.3.255 any
+access-list 110 deny ip 91.200.133.0 0.0.0.255 any
+access-list 110 deny ip 91.200.248.0 0.0.3.255 any
+access-list 110 deny ip 91.218.236.0 0.0.3.255 any
+access-list 110 deny ip 91.220.163.0 0.0.0.255 any
+access-list 110 deny ip 91.229.52.0 0.0.3.255 any
+access-list 110 deny ip 91.232.18.0 0.0.0.255 any
+access-list 110 deny ip 91.235.130.0 0.0.1.255 any
+access-list 110 deny ip 91.243.176.0 0.0.3.255 any
+access-list 110 deny ip 92.118.80.0 0.0.3.255 any
+access-list 110 deny ip 93.114.51.0 0.0.0.255 any
+access-list 110 deny ip 93.114.52.0 0.0.1.255 any
+access-list 110 deny ip 93.114.54.0 0.0.0.255 any
+access-list 110 deny ip 93.114.58.0 0.0.1.255 any
+access-list 110 deny ip 93.114.60.0 0.0.3.255 any
+access-list 110 deny ip 93.115.59.0 0.0.0.255 any
+access-list 110 deny ip 93.119.118.0 0.0.1.255 any
+access-list 110 deny ip 93.119.120.0 0.0.1.255 any
+access-list 110 deny ip 93.119.124.0 0.0.1.255 any
+access-list 110 deny ip 94.131.228.0 0.0.3.255 any
+access-list 110 deny ip 96.45.144.0 0.0.15.255 any
+access-list 110 deny ip 101.42.0.0 0.0.255.255 any
+access-list 110 deny ip 101.134.0.0 0.1.255.255 any
+access-list 110 deny ip 101.203.128.0 0.0.31.255 any
+access-list 110 deny ip 101.248.0.0 0.1.255.255 any
+access-list 110 deny ip 102.196.96.0 0.0.31.255 any
+access-list 110 deny ip 102.211.224.0 0.0.31.255 any
+access-list 110 deny ip 102.212.224.0 0.0.31.255 any
+access-list 110 deny ip 102.240.0.0 0.0.255.255 any
+access-list 110 deny ip 103.14.208.0 0.0.3.255 any
+access-list 110 deny ip 103.23.8.0 0.0.3.255 any
+access-list 110 deny ip 103.23.124.0 0.0.3.255 any
+access-list 110 deny ip 103.30.12.0 0.0.3.255 any
+access-list 110 deny ip 103.32.0.0 0.0.255.255 any
+access-list 110 deny ip 103.32.132.0 0.0.3.255 any
+access-list 110 deny ip 103.34.0.0 0.0.255.255 any
+access-list 110 deny ip 103.36.64.0 0.0.3.255 any
+access-list 110 deny ip 103.73.172.0 0.0.3.255 any
+access-list 110 deny ip 103.75.36.0 0.0.3.255 any
+access-list 110 deny ip 103.76.128.0 0.0.3.255 any
+access-list 110 deny ip 103.99.0.0 0.0.3.255 any
+access-list 110 deny ip 103.100.168.0 0.0.3.255 any
+access-list 110 deny ip 103.189.224.0 0.0.31.255 any
+access-list 110 deny ip 103.197.240.0 0.0.3.255 any
+access-list 110 deny ip 103.199.88.0 0.0.3.255 any
+access-list 110 deny ip 103.210.244.0 0.0.3.255 any
+access-list 110 deny ip 103.215.80.0 0.0.3.255 any
+access-list 110 deny ip 103.225.72.0 0.0.3.255 any
+access-list 110 deny ip 103.226.192.0 0.0.3.255 any
+access-list 110 deny ip 103.228.60.0 0.0.3.255 any
+access-list 110 deny ip 103.230.144.0 0.0.3.255 any
+access-list 110 deny ip 103.232.172.0 0.0.3.255 any
+access-list 110 deny ip 103.236.32.0 0.0.3.255 any
+access-list 110 deny ip 103.239.56.0 0.0.3.255 any
+access-list 110 deny ip 103.243.8.0 0.0.3.255 any
+access-list 110 deny ip 104.153.244.0 0.0.3.255 any
+access-list 110 deny ip 104.218.239.0 0.0.0.255 any
+access-list 110 deny ip 104.243.192.0 0.0.15.255 any
+access-list 110 deny ip 104.250.192.0 0.0.31.255 any
+access-list 110 deny ip 106.95.0.0 0.0.255.255 any
+access-list 110 deny ip 107.182.240.0 0.0.15.255 any
+access-list 110 deny ip 110.41.0.0 0.0.255.255 any
+access-list 110 deny ip 111.223.192.0 0.0.31.255 any
+access-list 110 deny ip 113.212.128.0 0.0.31.255 any
+access-list 110 deny ip 115.144.69.0 0.0.0.255 any
+access-list 110 deny ip 116.144.0.0 0.1.255.255 any
+access-list 110 deny ip 116.146.0.0 0.1.255.255 any
+access-list 110 deny ip 117.58.0.0 0.0.127.255 any
+access-list 110 deny ip 119.58.0.0 0.0.255.255 any
+access-list 110 deny ip 119.232.0.0 0.0.255.255 any
+access-list 110 deny ip 122.8.0.0 0.0.255.255 any
+access-list 110 deny ip 122.129.0.0 0.0.63.255 any
+access-list 110 deny ip 123.136.80.0 0.0.15.255 any
+access-list 110 deny ip 124.20.0.0 0.0.255.255 any
+access-list 110 deny ip 124.68.0.0 0.1.255.255 any
+access-list 110 deny ip 124.157.0.0 0.0.63.255 any
+access-list 110 deny ip 124.242.0.0 0.0.255.255 any
+access-list 110 deny ip 125.31.192.0 0.0.63.255 any
+access-list 110 deny ip 125.58.0.0 0.0.63.255 any
+access-list 110 deny ip 125.169.0.0 0.0.255.255 any
+access-list 110 deny ip 128.24.0.0 0.0.255.255 any
+access-list 110 deny ip 128.85.0.0 0.0.255.255 any
+access-list 110 deny ip 130.21.0.0 0.0.255.255 any
+access-list 110 deny ip 130.148.0.0 0.0.255.255 any
+access-list 110 deny ip 130.196.0.0 0.0.255.255 any
+access-list 110 deny ip 130.222.0.0 0.0.255.255 any
+access-list 110 deny ip 131.0.152.0 0.0.3.255 any
+access-list 110 deny ip 131.108.16.0 0.0.3.255 any
+access-list 110 deny ip 131.143.0.0 0.0.255.255 any
+access-list 110 deny ip 132.255.0.0 0.0.3.255 any
+access-list 110 deny ip 134.18.0.0 0.0.255.255 any
+access-list 110 deny ip 134.22.0.0 0.0.255.255 any
+access-list 110 deny ip 134.23.0.0 0.0.255.255 any
+access-list 110 deny ip 134.33.0.0 0.0.255.255 any
+access-list 110 deny ip 134.127.0.0 0.0.255.255 any
+access-list 110 deny ip 134.172.0.0 0.0.255.255 any
+access-list 110 deny ip 137.19.0.0 0.0.255.255 any
+access-list 110 deny ip 137.31.0.0 0.0.255.255 any
+access-list 110 deny ip 137.55.0.0 0.0.255.255 any
+access-list 110 deny ip 137.72.0.0 0.0.255.255 any
+access-list 110 deny ip 137.76.0.0 0.0.255.255 any
+access-list 110 deny ip 137.105.0.0 0.0.255.255 any
+access-list 110 deny ip 137.114.0.0 0.0.255.255 any
+access-list 110 deny ip 137.218.0.0 0.0.255.255 any
+access-list 110 deny ip 138.31.0.0 0.0.255.255 any
+access-list 110 deny ip 138.36.92.0 0.0.3.255 any
+access-list 110 deny ip 138.36.136.0 0.0.3.255 any
+access-list 110 deny ip 138.52.0.0 0.0.255.255 any
+access-list 110 deny ip 138.59.4.0 0.0.3.255 any
+access-list 110 deny ip 138.59.204.0 0.0.3.255 any
+access-list 110 deny ip 138.94.216.0 0.0.3.255 any
+access-list 110 deny ip 138.97.156.0 0.0.3.255 any
+access-list 110 deny ip 138.99.36.0 0.0.3.255 any
+access-list 110 deny ip 138.125.0.0 0.0.255.255 any
+access-list 110 deny ip 138.185.116.0 0.0.3.255 any
+access-list 110 deny ip 138.219.172.0 0.0.3.255 any
+access-list 110 deny ip 138.249.0.0 0.0.255.255 any
+access-list 110 deny ip 139.44.0.0 0.0.255.255 any
+access-list 110 deny ip 139.81.0.0 0.0.255.255 any
+access-list 110 deny ip 139.188.0.0 0.0.255.255 any
+access-list 110 deny ip 140.82.64.0 0.0.31.255 any
+access-list 110 deny ip 140.82.96.0 0.0.15.255 any
+access-list 110 deny ip 140.167.0.0 0.0.255.255 any
+access-list 110 deny ip 141.178.0.0 0.0.255.255 any
+access-list 110 deny ip 141.206.128.0 0.0.15.255 any
+access-list 110 deny ip 141.253.0.0 0.0.255.255 any
+access-list 110 deny ip 142.102.0.0 0.0.255.255 any
+access-list 110 deny ip 143.0.236.0 0.0.3.255 any
+access-list 110 deny ip 143.49.0.0 0.0.255.255 any
+access-list 110 deny ip 143.135.0.0 0.0.255.255 any
+access-list 110 deny ip 143.136.0.0 0.0.255.255 any
+access-list 110 deny ip 143.253.0.0 0.0.255.255 any
+access-list 110 deny ip 145.231.0.0 0.0.255.255 any
+access-list 110 deny ip 146.3.0.0 0.0.255.255 any
+access-list 110 deny ip 146.51.0.0 0.0.255.255 any
+access-list 110 deny ip 146.106.0.0 0.0.255.255 any
+access-list 110 deny ip 146.183.0.0 0.0.255.255 any
+access-list 110 deny ip 146.202.0.0 0.0.255.255 any
+access-list 110 deny ip 146.252.0.0 0.0.255.255 any
+access-list 110 deny ip 147.7.0.0 0.0.255.255 any
+access-list 110 deny ip 147.16.0.0 0.3.255.255 any
+access-list 110 deny ip 147.78.224.0 0.0.3.255 any
+access-list 110 deny ip 147.119.0.0 0.0.255.255 any
+access-list 110 deny ip 148.148.0.0 0.0.255.255 any
+access-list 110 deny ip 148.154.0.0 0.0.255.255 any
+access-list 110 deny ip 148.178.0.0 0.0.255.255 any
+access-list 110 deny ip 148.185.0.0 0.0.255.255 any
+access-list 110 deny ip 148.248.0.0 0.0.255.255 any
+access-list 110 deny ip 149.118.0.0 0.0.255.255 any
+access-list 110 deny ip 149.207.0.0 0.0.255.255 any
+access-list 110 deny ip 150.10.0.0 0.0.255.255 any
+access-list 110 deny ip 150.22.128.0 0.0.127.255 any
+access-list 110 deny ip 150.25.0.0 0.0.255.255 any
+access-list 110 deny ip 150.40.0.0 0.0.255.255 any
+access-list 110 deny ip 150.121.0.0 0.0.255.255 any
+access-list 110 deny ip 150.129.212.0 0.0.3.255 any
+access-list 110 deny ip 150.129.228.0 0.0.3.255 any
+access-list 110 deny ip 150.141.0.0 0.0.255.255 any
+access-list 110 deny ip 150.242.120.0 0.0.3.255 any
+access-list 110 deny ip 150.242.144.0 0.0.3.255 any
+access-list 110 deny ip 151.212.0.0 0.0.255.255 any
+access-list 110 deny ip 152.109.0.0 0.0.255.255 any
+access-list 110 deny ip 152.147.0.0 0.0.255.255 any
+access-list 110 deny ip 153.14.0.0 0.0.255.255 any
+access-list 110 deny ip 153.52.0.0 0.3.255.255 any
+access-list 110 deny ip 153.93.0.0 0.0.255.255 any
+access-list 110 deny ip 154.0.64.0 0.0.63.255 any
+access-list 110 deny ip 155.40.0.0 0.0.255.255 any
+access-list 110 deny ip 155.66.0.0 0.0.255.255 any
+access-list 110 deny ip 155.71.0.0 0.0.255.255 any
+access-list 110 deny ip 155.73.0.0 0.0.255.255 any
+access-list 110 deny ip 155.108.0.0 0.0.255.255 any
+access-list 110 deny ip 155.159.0.0 0.0.255.255 any
+access-list 110 deny ip 155.233.0.0 0.0.255.255 any
+access-list 110 deny ip 155.235.0.0 0.0.255.255 any
+access-list 110 deny ip 155.249.0.0 0.0.255.255 any
+access-list 110 deny ip 156.96.0.0 0.0.255.255 any
+access-list 110 deny ip 156.229.132.0 0.0.3.255 any
+access-list 110 deny ip 156.229.136.0 0.0.7.255 any
+access-list 110 deny ip 156.229.144.0 0.0.15.255 any
+access-list 110 deny ip 156.229.160.0 0.0.31.255 any
+access-list 110 deny ip 156.229.192.0 0.0.63.255 any
+access-list 110 deny ip 156.233.128.0 0.0.7.255 any
+access-list 110 deny ip 156.233.136.0 0.0.7.255 any
+access-list 110 deny ip 156.233.144.0 0.0.15.255 any
+access-list 110 deny ip 156.233.160.0 0.0.31.255 any
+access-list 110 deny ip 156.233.192.0 0.0.31.255 any
+access-list 110 deny ip 156.233.224.0 0.0.31.255 any
+access-list 110 deny ip 157.115.0.0 0.0.255.255 any
+access-list 110 deny ip 157.162.0.0 0.0.255.255 any
+access-list 110 deny ip 157.186.0.0 0.0.255.255 any
+access-list 110 deny ip 157.195.0.0 0.0.255.255 any
+access-list 110 deny ip 158.54.0.0 0.0.255.255 any
+access-list 110 deny ip 158.249.0.0 0.0.255.255 any
+access-list 110 deny ip 159.80.0.0 0.0.255.255 any
+access-list 110 deny ip 159.85.0.0 0.0.255.255 any
+access-list 110 deny ip 159.174.0.0 0.0.255.255 any
+access-list 110 deny ip 159.219.0.0 0.0.255.255 any
+access-list 110 deny ip 159.229.0.0 0.0.255.255 any
+access-list 110 deny ip 160.14.0.0 0.0.255.255 any
+access-list 110 deny ip 160.21.0.0 0.0.255.255 any
+access-list 110 deny ip 160.115.0.0 0.0.255.255 any
+access-list 110 deny ip 160.116.0.0 0.0.255.255 any
+access-list 110 deny ip 160.117.0.0 0.0.255.255 any
+access-list 110 deny ip 160.121.0.0 0.0.255.255 any
+access-list 110 deny ip 160.122.0.0 0.0.255.255 any
+access-list 110 deny ip 160.180.0.0 0.0.255.255 any
+access-list 110 deny ip 160.188.0.0 0.0.255.255 any
+access-list 110 deny ip 160.200.0.0 0.0.255.255 any
+access-list 110 deny ip 160.235.0.0 0.0.255.255 any
+access-list 110 deny ip 160.240.0.0 0.0.255.255 any
+access-list 110 deny ip 161.0.0.0 0.0.31.255 any
+access-list 110 deny ip 161.0.68.0 0.0.3.255 any
+access-list 110 deny ip 161.1.0.0 0.0.255.255 any
+access-list 110 deny ip 162.208.124.0 0.0.3.255 any
+access-list 110 deny ip 162.222.128.0 0.0.7.255 any
+access-list 110 deny ip 162.249.20.0 0.0.3.255 any
+access-list 110 deny ip 162.251.92.0 0.0.3.255 any
+access-list 110 deny ip 163.47.19.0 0.0.0.255 any
+access-list 110 deny ip 163.50.0.0 0.0.255.255 any
+access-list 110 deny ip 163.53.247.0 0.0.0.255 any
+access-list 110 deny ip 163.128.224.0 0.0.31.255 any
+access-list 110 deny ip 163.197.0.0 0.0.255.255 any
+access-list 110 deny ip 163.198.0.0 0.0.255.255 any
+access-list 110 deny ip 163.216.0.0 0.0.31.255 any
+access-list 110 deny ip 163.250.0.0 0.0.255.255 any
+access-list 110 deny ip 163.254.0.0 0.0.255.255 any
+access-list 110 deny ip 164.6.0.0 0.0.255.255 any
+access-list 110 deny ip 164.79.0.0 0.0.255.255 any
+access-list 110 deny ip 164.88.0.0 0.0.255.255 any
+access-list 110 deny ip 164.137.0.0 0.0.255.255 any
+access-list 110 deny ip 164.155.0.0 0.0.255.255 any
+access-list 110 deny ip 165.3.0.0 0.0.255.255 any
+access-list 110 deny ip 165.25.0.0 0.0.255.255 any
+access-list 110 deny ip 165.102.0.0 0.0.255.255 any
+access-list 110 deny ip 165.205.0.0 0.0.255.255 any
+access-list 110 deny ip 165.209.0.0 0.0.255.255 any
+access-list 110 deny ip 167.74.0.0 0.0.63.255 any
+access-list 110 deny ip 167.82.144.0 0.0.15.255 any
+access-list 110 deny ip 167.103.0.0 0.0.255.255 any
+access-list 110 deny ip 167.158.0.0 0.0.255.255 any
+access-list 110 deny ip 167.175.0.0 0.0.255.255 any
+access-list 110 deny ip 167.224.0.0 0.0.31.255 any
+access-list 110 deny ip 167.224.32.0 0.0.15.255 any
+access-list 110 deny ip 167.224.48.0 0.0.7.255 any
+access-list 110 deny ip 167.249.200.0 0.0.3.255 any
+access-list 110 deny ip 168.0.212.0 0.0.3.255 any
+access-list 110 deny ip 168.64.0.0 0.0.255.255 any
+access-list 110 deny ip 168.76.0.0 0.0.255.255 any
+access-list 110 deny ip 168.80.0.0 0.1.255.255 any
+access-list 110 deny ip 168.129.0.0 0.0.255.255 any
+access-list 110 deny ip 168.151.0.0 0.0.3.255 any
+access-list 110 deny ip 168.151.4.0 0.0.1.255 any
+access-list 110 deny ip 168.151.6.0 0.0.0.255 any
+access-list 110 deny ip 168.151.9.0 0.0.0.255 any
+access-list 110 deny ip 168.151.21.0 0.0.0.255 any
+access-list 110 deny ip 168.151.28.0 0.0.0.255 any
+access-list 110 deny ip 168.151.32.0 0.0.7.255 any
+access-list 110 deny ip 168.151.43.0 0.0.0.255 any
+access-list 110 deny ip 168.151.44.0 0.0.3.255 any
+access-list 110 deny ip 168.151.48.0 0.0.3.255 any
+access-list 110 deny ip 168.151.52.0 0.0.1.255 any
+access-list 110 deny ip 168.151.54.0 0.0.0.255 any
+access-list 110 deny ip 168.151.56.0 0.0.7.255 any
+access-list 110 deny ip 168.151.64.0 0.0.3.255 any
+access-list 110 deny ip 168.151.68.0 0.0.1.255 any
+access-list 110 deny ip 168.151.72.0 0.0.7.255 any
+access-list 110 deny ip 168.151.80.0 0.0.15.255 any
+access-list 110 deny ip 168.151.96.0 0.0.31.255 any
+access-list 110 deny ip 168.151.128.0 0.0.15.255 any
+access-list 110 deny ip 168.151.145.0 0.0.0.255 any
+access-list 110 deny ip 168.151.146.0 0.0.1.255 any
+access-list 110 deny ip 168.151.148.0 0.0.3.255 any
+access-list 110 deny ip 168.151.152.0 0.0.3.255 any
+access-list 110 deny ip 168.151.157.0 0.0.0.255 any
+access-list 110 deny ip 168.151.158.0 0.0.1.255 any
+access-list 110 deny ip 168.151.160.0 0.0.15.255 any
+access-list 110 deny ip 168.151.176.0 0.0.7.255 any
+access-list 110 deny ip 168.151.184.0 0.0.3.255 any
+access-list 110 deny ip 168.151.192.0 0.0.15.255 any
+access-list 110 deny ip 168.151.208.0 0.0.7.255 any
+access-list 110 deny ip 168.151.216.0 0.0.3.255 any
+access-list 110 deny ip 168.151.220.0 0.0.1.255 any
+access-list 110 deny ip 168.151.224.0 0.0.3.255 any
+access-list 110 deny ip 168.151.228.0 0.0.1.255 any
+access-list 110 deny ip 168.151.232.0 0.0.7.255 any
+access-list 110 deny ip 168.151.240.0 0.0.7.255 any
+access-list 110 deny ip 168.151.248.0 0.0.3.255 any
+access-list 110 deny ip 168.151.252.0 0.0.1.255 any
+access-list 110 deny ip 168.151.254.0 0.0.0.255 any
+access-list 110 deny ip 168.181.52.0 0.0.3.255 any
+access-list 110 deny ip 168.195.76.0 0.0.3.255 any
+access-list 110 deny ip 168.196.236.0 0.0.3.255 any
+access-list 110 deny ip 168.196.240.0 0.0.3.255 any
+access-list 110 deny ip 168.198.0.0 0.0.255.255 any
+access-list 110 deny ip 168.205.72.0 0.0.3.255 any
+access-list 110 deny ip 168.206.0.0 0.0.255.255 any
+access-list 110 deny ip 168.227.140.0 0.0.3.255 any
+access-list 110 deny ip 169.129.0.0 0.0.255.255 any
+access-list 110 deny ip 169.136.224.0 0.0.31.255 any
+access-list 110 deny ip 169.239.152.0 0.0.3.255 any
+access-list 110 deny ip 169.245.0.0 0.0.255.255 any
+access-list 110 deny ip 169.246.0.0 0.1.255.255 any
+access-list 110 deny ip 169.248.0.0 0.3.255.255 any
+access-list 110 deny ip 170.67.0.0 0.0.255.255 any
+access-list 110 deny ip 170.83.232.0 0.0.3.255 any
+access-list 110 deny ip 170.113.0.0 0.0.255.255 any
+access-list 110 deny ip 170.120.0.0 0.0.255.255 any
+access-list 110 deny ip 170.179.0.0 0.0.255.255 any
+access-list 110 deny ip 170.244.40.0 0.0.3.255 any
+access-list 110 deny ip 170.244.240.0 0.0.3.255 any
+access-list 110 deny ip 170.247.220.0 0.0.3.255 any
+access-list 110 deny ip 171.26.0.0 0.0.255.255 any
+access-list 110 deny ip 175.103.64.0 0.0.63.255 any
+access-list 110 deny ip 176.56.192.0 0.0.31.255 any
+access-list 110 deny ip 176.126.192.0 0.0.1.255 any
+access-list 110 deny ip 176.126.194.0 0.0.0.255 any
+access-list 110 deny ip 176.223.116.0 0.0.1.255 any
+access-list 110 deny ip 176.223.118.0 0.0.0.255 any
+access-list 110 deny ip 176.223.160.0 0.0.1.255 any
+access-list 110 deny ip 177.234.136.0 0.0.7.255 any
+access-list 110 deny ip 180.178.192.0 0.0.63.255 any
+access-list 110 deny ip 180.236.0.0 0.3.255.255 any
+access-list 110 deny ip 181.177.64.0 0.0.63.255 any
+access-list 110 deny ip 185.0.96.0 0.0.31.255 any
+access-list 110 deny ip 185.21.8.0 0.0.3.255 any
+access-list 110 deny ip 185.30.168.0 0.0.3.255 any
+access-list 110 deny ip 185.64.23.0 0.0.0.255 any
+access-list 110 deny ip 185.77.248.0 0.0.0.255 any
+access-list 110 deny ip 185.80.112.0 0.0.3.255 any
+access-list 110 deny ip 185.81.180.0 0.0.3.255 any
+access-list 110 deny ip 185.105.56.0 0.0.3.255 any
+access-list 110 deny ip 185.110.0.0 0.0.3.255 any
+access-list 110 deny ip 185.116.172.0 0.0.1.255 any
+access-list 110 deny ip 185.116.175.0 0.0.0.255 any
+access-list 110 deny ip 185.120.8.0 0.0.3.255 any
+access-list 110 deny ip 185.122.128.0 0.0.3.255 any
+access-list 110 deny ip 185.123.248.0 0.0.7.255 any
+access-list 110 deny ip 185.124.0.0 0.0.3.255 any
+access-list 110 deny ip 185.124.56.0 0.0.7.255 any
+access-list 110 deny ip 185.126.160.0 0.0.7.255 any
+access-list 110 deny ip 185.127.44.0 0.0.3.255 any
+access-list 110 deny ip 185.127.56.0 0.0.3.255 any
+access-list 110 deny ip 185.127.68.0 0.0.3.255 any
+access-list 110 deny ip 185.127.76.0 0.0.3.255 any
+access-list 110 deny ip 185.129.8.0 0.0.3.255 any
+access-list 110 deny ip 185.129.208.0 0.0.3.255 any
+access-list 110 deny ip 185.130.36.0 0.0.3.255 any
+access-list 110 deny ip 185.132.8.0 0.0.3.255 any
+access-list 110 deny ip 185.134.48.0 0.0.3.255 any
+access-list 110 deny ip 185.144.180.0 0.0.3.255 any
+access-list 110 deny ip 185.147.140.0 0.0.3.255 any
+access-list 110 deny ip 185.161.148.0 0.0.3.255 any
+access-list 110 deny ip 185.165.24.0 0.0.3.255 any
+access-list 110 deny ip 185.180.192.0 0.0.3.255 any
+access-list 110 deny ip 185.185.48.0 0.0.3.255 any
+access-list 110 deny ip 185.193.90.0 0.0.0.255 any
+access-list 110 deny ip 185.194.100.0 0.0.3.255 any
+access-list 110 deny ip 185.215.113.0 0.0.0.255 any
+access-list 110 deny ip 185.215.132.0 0.0.3.255 any
+access-list 110 deny ip 185.227.200.0 0.0.3.255 any
+access-list 110 deny ip 185.230.44.0 0.0.3.255 any
+access-list 110 deny ip 185.234.64.0 0.0.3.255 any
+access-list 110 deny ip 185.237.104.0 0.0.3.255 any
+access-list 110 deny ip 185.237.220.0 0.0.3.255 any
+access-list 110 deny ip 185.237.226.0 0.0.1.255 any
+access-list 110 deny ip 185.238.176.0 0.0.3.255 any
+access-list 110 deny ip 185.252.84.0 0.0.3.255 any
+access-list 110 deny ip 185.255.196.0 0.0.1.255 any
+access-list 110 deny ip 186.65.112.0 0.0.15.255 any
+access-list 110 deny ip 186.179.0.0 0.0.63.255 any
+access-list 110 deny ip 187.19.64.0 0.0.15.255 any
+access-list 110 deny ip 187.60.0.0 0.0.15.255 any
+access-list 110 deny ip 187.110.192.0 0.0.15.255 any
+access-list 110 deny ip 188.172.160.0 0.0.31.255 any
+access-list 110 deny ip 188.208.48.0 0.0.3.255 any
+access-list 110 deny ip 188.208.52.0 0.0.3.255 any
+access-list 110 deny ip 188.208.109.0 0.0.0.255 any
+access-list 110 deny ip 188.208.220.0 0.0.3.255 any
+access-list 110 deny ip 188.209.120.0 0.0.7.255 any
+access-list 110 deny ip 188.212.254.0 0.0.0.255 any
+access-list 110 deny ip 188.213.23.0 0.0.0.255 any
+access-list 110 deny ip 188.213.206.0 0.0.1.255 any
+access-list 110 deny ip 188.213.214.0 0.0.1.255 any
+access-list 110 deny ip 188.213.248.0 0.0.3.255 any
+access-list 110 deny ip 188.213.252.0 0.0.3.255 any
+access-list 110 deny ip 188.214.94.0 0.0.0.255 any
+access-list 110 deny ip 188.214.95.0 0.0.0.255 any
+access-list 110 deny ip 188.214.140.0 0.0.0.255 any
+access-list 110 deny ip 188.214.155.0 0.0.0.255 any
+access-list 110 deny ip 188.214.193.0 0.0.0.255 any
+access-list 110 deny ip 188.241.211.0 0.0.0.255 any
+access-list 110 deny ip 188.247.230.0 0.0.0.255 any
+access-list 110 deny ip 190.123.208.0 0.0.15.255 any
+access-list 110 deny ip 190.168.128.0 0.0.63.255 any
+access-list 110 deny ip 190.168.192.0 0.0.63.255 any
+access-list 110 deny ip 190.185.108.0 0.0.3.255 any
+access-list 110 deny ip 191.7.224.0 0.0.31.255 any
+access-list 110 deny ip 192.5.103.0 0.0.0.255 any
+access-list 110 deny ip 192.12.131.0 0.0.0.255 any
+access-list 110 deny ip 192.22.0.0 0.0.255.255 any
+access-list 110 deny ip 192.26.25.0 0.0.0.255 any
+access-list 110 deny ip 192.31.212.0 0.0.1.255 any
+access-list 110 deny ip 192.40.29.0 0.0.0.255 any
+access-list 110 deny ip 192.43.175.0 0.0.0.255 any
+access-list 110 deny ip 192.43.176.0 0.0.7.255 any
+access-list 110 deny ip 192.43.184.0 0.0.0.255 any
+access-list 110 deny ip 192.54.110.0 0.0.0.255 any
+access-list 110 deny ip 192.67.16.0 0.0.0.255 any
+access-list 110 deny ip 192.96.146.0 0.0.0.255 any
+access-list 110 deny ip 192.101.44.0 0.0.0.255 any
+access-list 110 deny ip 192.101.181.0 0.0.0.255 any
+access-list 110 deny ip 192.101.200.0 0.0.7.255 any
+access-list 110 deny ip 192.101.208.0 0.0.15.255 any
+access-list 110 deny ip 192.101.224.0 0.0.15.255 any
+access-list 110 deny ip 192.101.240.0 0.0.7.255 any
+access-list 110 deny ip 192.101.248.0 0.0.1.255 any
+access-list 110 deny ip 192.133.3.0 0.0.0.255 any
+access-list 110 deny ip 192.152.194.0 0.0.0.255 any
+access-list 110 deny ip 192.154.11.0 0.0.0.255 any
+access-list 110 deny ip 192.160.44.0 0.0.0.255 any
+access-list 110 deny ip 192.190.49.0 0.0.0.255 any
+access-list 110 deny ip 192.190.97.0 0.0.0.255 any
+access-list 110 deny ip 192.195.150.0 0.0.0.255 any
+access-list 110 deny ip 192.197.87.0 0.0.0.255 any
+access-list 110 deny ip 192.203.252.0 0.0.0.255 any
+access-list 110 deny ip 192.206.114.0 0.0.0.255 any
+access-list 110 deny ip 192.219.120.0 0.0.7.255 any
+access-list 110 deny ip 192.219.128.0 0.0.63.255 any
+access-list 110 deny ip 192.219.192.0 0.0.15.255 any
+access-list 110 deny ip 192.219.208.0 0.0.7.255 any
+access-list 110 deny ip 192.226.16.0 0.0.15.255 any
+access-list 110 deny ip 192.229.32.0 0.0.31.255 any
+access-list 110 deny ip 192.231.66.0 0.0.0.255 any
+access-list 110 deny ip 192.234.156.0 0.0.0.255 any
+access-list 110 deny ip 192.234.189.0 0.0.0.255 any
+access-list 110 deny ip 192.245.101.0 0.0.0.255 any
+access-list 110 deny ip 192.245.188.0 0.0.0.255 any
+access-list 110 deny ip 192.245.248.0 0.0.0.255 any
+access-list 110 deny ip 192.251.231.0 0.0.0.255 any
+access-list 110 deny ip 192.252.16.0 0.0.15.255 any
+access-list 110 deny ip 193.30.254.0 0.0.1.255 any
+access-list 110 deny ip 193.32.66.0 0.0.1.255 any
+access-list 110 deny ip 193.84.100.0 0.0.3.255 any
+access-list 110 deny ip 193.139.0.0 0.0.255.255 any
+access-list 110 deny ip 193.151.160.0 0.0.3.255 any
+access-list 110 deny ip 193.243.0.0 0.0.127.255 any
+access-list 110 deny ip 193.254.48.0 0.0.15.255 any
+access-list 110 deny ip 194.41.60.0 0.0.1.255 any
+access-list 110 deny ip 194.147.140.0 0.0.0.255 any
+access-list 110 deny ip 195.182.57.0 0.0.0.255 any
+access-list 110 deny ip 195.210.96.0 0.0.31.255 any
+access-list 110 deny ip 196.1.109.0 0.0.0.255 any
+access-list 110 deny ip 196.10.61.0 0.0.0.255 any
+access-list 110 deny ip 196.10.62.0 0.0.1.255 any
+access-list 110 deny ip 196.10.64.0 0.0.31.255 any
+access-list 110 deny ip 196.15.64.0 0.0.63.255 any
+access-list 110 deny ip 196.16.0.0 0.3.255.255 any
+access-list 110 deny ip 196.52.0.0 0.3.255.255 any
+access-list 110 deny ip 196.61.192.0 0.0.15.255 any
+access-list 110 deny ip 197.154.0.0 0.0.255.255 any
+access-list 110 deny ip 197.231.208.0 0.0.3.255 any
+access-list 110 deny ip 198.20.16.0 0.0.15.255 any
+access-list 110 deny ip 198.45.32.0 0.0.15.255 any
+access-list 110 deny ip 198.45.64.0 0.0.31.255 any
+access-list 110 deny ip 198.54.232.0 0.0.0.255 any
+access-list 110 deny ip 198.56.64.0 0.0.63.255 any
+access-list 110 deny ip 198.57.64.0 0.0.15.255 any
+access-list 110 deny ip 198.62.70.0 0.0.0.255 any
+access-list 110 deny ip 198.62.76.0 0.0.0.255 any
+access-list 110 deny ip 198.96.224.0 0.0.15.255 any
+access-list 110 deny ip 198.99.117.0 0.0.0.255 any
+access-list 110 deny ip 198.102.222.0 0.0.0.255 any
+access-list 110 deny ip 198.133.120.0 0.0.0.255 any
+access-list 110 deny ip 198.148.212.0 0.0.0.255 any
+access-list 110 deny ip 198.151.16.0 0.0.15.255 any
+access-list 110 deny ip 198.151.64.0 0.0.63.255 any
+access-list 110 deny ip 198.151.152.0 0.0.3.255 any
+access-list 110 deny ip 198.160.205.0 0.0.0.255 any
+access-list 110 deny ip 198.169.201.0 0.0.0.255 any
+access-list 110 deny ip 198.177.175.0 0.0.0.255 any
+access-list 110 deny ip 198.177.176.0 0.0.3.255 any
+access-list 110 deny ip 198.177.180.0 0.0.0.255 any
+access-list 110 deny ip 198.177.214.0 0.0.0.255 any
+access-list 110 deny ip 198.178.64.0 0.0.31.255 any
+access-list 110 deny ip 198.179.22.0 0.0.0.255 any
+access-list 110 deny ip 198.181.96.0 0.0.15.255 any
+access-list 110 deny ip 198.183.32.0 0.0.31.255 any
+access-list 110 deny ip 198.184.193.0 0.0.0.255 any
+access-list 110 deny ip 198.184.208.0 0.0.0.255 any
+access-list 110 deny ip 198.186.25.0 0.0.0.255 any
+access-list 110 deny ip 198.187.64.0 0.0.63.255 any
+access-list 110 deny ip 198.187.192.0 0.0.0.255 any
+access-list 110 deny ip 198.190.173.0 0.0.0.255 any
+access-list 110 deny ip 198.199.212.0 0.0.0.255 any
+access-list 110 deny ip 198.200.0.0 0.0.7.255 any
+access-list 110 deny ip 198.200.8.0 0.0.1.255 any
+access-list 110 deny ip 198.202.237.0 0.0.0.255 any
+access-list 110 deny ip 198.204.0.0 0.0.7.255 any
+access-list 110 deny ip 198.206.140.0 0.0.0.255 any
+access-list 110 deny ip 198.212.132.0 0.0.0.255 any
+access-list 110 deny ip 198.252.32.0 0.0.31.255 any
+access-list 110 deny ip 199.4.151.0 0.0.0.255 any
+access-list 110 deny ip 199.4.226.0 0.0.1.255 any
+access-list 110 deny ip 199.4.228.0 0.0.1.255 any
+access-list 110 deny ip 199.5.152.0 0.0.1.255 any
+access-list 110 deny ip 199.5.194.0 0.0.0.255 any
+access-list 110 deny ip 199.5.229.0 0.0.0.255 any
+access-list 110 deny ip 199.26.137.0 0.0.0.255 any
+access-list 110 deny ip 199.26.181.0 0.0.0.255 any
+access-list 110 deny ip 199.26.205.0 0.0.0.255 any
+access-list 110 deny ip 199.26.207.0 0.0.0.255 any
+access-list 110 deny ip 199.26.251.0 0.0.0.255 any
+access-list 110 deny ip 199.27.32.0 0.0.31.255 any
+access-list 110 deny ip 199.33.222.0 0.0.0.255 any
+access-list 110 deny ip 199.34.128.0 0.0.63.255 any
+access-list 110 deny ip 199.38.0.0 0.0.7.255 any
+access-list 110 deny ip 199.60.102.0 0.0.0.255 any
+access-list 110 deny ip 199.71.139.0 0.0.0.255 any
+access-list 110 deny ip 199.71.192.0 0.0.15.255 any
+access-list 110 deny ip 199.73.64.0 0.0.15.255 any
+access-list 110 deny ip 199.84.16.0 0.0.15.255 any
+access-list 110 deny ip 199.84.55.0 0.0.0.255 any
+access-list 110 deny ip 199.84.56.0 0.0.3.255 any
+access-list 110 deny ip 199.84.60.0 0.0.0.255 any
+access-list 110 deny ip 199.84.64.0 0.0.31.255 any
+access-list 110 deny ip 199.89.16.0 0.0.15.255 any
+access-list 110 deny ip 199.89.198.0 0.0.0.255 any
+access-list 110 deny ip 199.120.163.0 0.0.0.255 any
+access-list 110 deny ip 199.164.136.0 0.0.0.255 any
+access-list 110 deny ip 199.165.32.0 0.0.31.255 any
+access-list 110 deny ip 199.165.237.0 0.0.0.255 any
+access-list 110 deny ip 199.165.238.0 0.0.0.255 any
+access-list 110 deny ip 199.166.200.0 0.0.3.255 any
+access-list 110 deny ip 199.166.209.0 0.0.0.255 any
+access-list 110 deny ip 199.166.214.0 0.0.1.255 any
+access-list 110 deny ip 199.184.82.0 0.0.0.255 any
+access-list 110 deny ip 199.184.223.0 0.0.0.255 any
+access-list 110 deny ip 199.185.144.0 0.0.15.255 any
+access-list 110 deny ip 199.196.192.0 0.0.31.255 any
+access-list 110 deny ip 199.198.160.0 0.0.15.255 any
+access-list 110 deny ip 199.198.176.0 0.0.7.255 any
+access-list 110 deny ip 199.198.184.0 0.0.1.255 any
+access-list 110 deny ip 199.198.188.0 0.0.3.255 any
+access-list 110 deny ip 199.200.64.0 0.0.31.255 any
+access-list 110 deny ip 199.201.212.0 0.0.0.255 any
+access-list 110 deny ip 199.223.0.0 0.0.15.255 any
+access-list 110 deny ip 199.230.64.0 0.0.31.255 any
+access-list 110 deny ip 199.230.96.0 0.0.7.255 any
+access-list 110 deny ip 199.231.8.0 0.0.7.255 any
+access-list 110 deny ip 199.233.78.0 0.0.0.255 any
+access-list 110 deny ip 199.233.85.0 0.0.0.255 any
+access-list 110 deny ip 199.233.96.0 0.0.0.255 any
+access-list 110 deny ip 199.233.101.0 0.0.0.255 any
+access-list 110 deny ip 199.241.0.0 0.0.7.255 any
+access-list 110 deny ip 199.241.64.0 0.0.31.255 any
+access-list 110 deny ip 199.244.56.0 0.0.7.255 any
+access-list 110 deny ip 199.245.123.0 0.0.0.255 any
+access-list 110 deny ip 199.245.138.0 0.0.0.255 any
+access-list 110 deny ip 199.246.35.0 0.0.0.255 any
+access-list 110 deny ip 199.246.137.0 0.0.0.255 any
+access-list 110 deny ip 199.246.213.0 0.0.0.255 any
+access-list 110 deny ip 199.246.215.0 0.0.0.255 any
+access-list 110 deny ip 199.246.226.0 0.0.0.255 any
+access-list 110 deny ip 199.248.254.0 0.0.0.255 any
+access-list 110 deny ip 199.249.64.0 0.0.31.255 any
+access-list 110 deny ip 199.253.32.0 0.0.15.255 any
+access-list 110 deny ip 199.253.48.0 0.0.7.255 any
+access-list 110 deny ip 199.253.224.0 0.0.15.255 any
+access-list 110 deny ip 199.254.32.0 0.0.15.255 any
+access-list 110 deny ip 200.0.60.0 0.0.1.255 any
+access-list 110 deny ip 200.13.64.0 0.0.15.255 any
+access-list 110 deny ip 200.22.0.0 0.0.255.255 any
+access-list 110 deny ip 200.71.124.0 0.0.3.255 any
+access-list 110 deny ip 200.142.208.0 0.0.15.255 any
+access-list 110 deny ip 200.160.32.0 0.0.15.255 any
+access-list 110 deny ip 200.189.16.0 0.0.15.255 any
+access-list 110 deny ip 200.189.44.0 0.0.3.255 any
+access-list 110 deny ip 201.148.168.0 0.0.3.255 any
+access-list 110 deny ip 201.169.0.0 0.0.255.255 any
+access-list 110 deny ip 202.21.64.0 0.0.31.255 any
+access-list 110 deny ip 202.27.96.0 0.0.1.255 any
+access-list 110 deny ip 202.27.98.0 0.0.0.255 any
+access-list 110 deny ip 202.27.99.0 0.0.0.255 any
+access-list 110 deny ip 202.27.100.0 0.0.3.255 any
+access-list 110 deny ip 202.27.120.0 0.0.3.255 any
+access-list 110 deny ip 202.27.161.0 0.0.0.255 any
+access-list 110 deny ip 202.27.162.0 0.0.1.255 any
+access-list 110 deny ip 202.27.164.0 0.0.3.255 any
+access-list 110 deny ip 202.27.168.0 0.0.0.255 any
+access-list 110 deny ip 202.40.32.0 0.0.31.255 any
+access-list 110 deny ip 202.40.64.0 0.0.63.255 any
+access-list 110 deny ip 202.86.0.0 0.0.3.255 any
+access-list 110 deny ip 202.148.32.0 0.0.15.255 any
+access-list 110 deny ip 202.148.176.0 0.0.15.255 any
+access-list 110 deny ip 202.183.0.0 0.0.31.255 any
+access-list 110 deny ip 202.189.80.0 0.0.15.255 any
+access-list 110 deny ip 203.2.200.0 0.0.3.255 any
+access-list 110 deny ip 203.9.0.0 0.0.31.255 any
+access-list 110 deny ip 203.31.88.0 0.0.1.255 any
+access-list 110 deny ip 203.34.70.0 0.0.1.255 any
+access-list 110 deny ip 203.86.252.0 0.0.3.255 any
+access-list 110 deny ip 203.169.0.0 0.0.3.255 any
+access-list 110 deny ip 203.191.64.0 0.0.63.255 any
+access-list 110 deny ip 203.195.0.0 0.0.63.255 any
+access-list 110 deny ip 204.14.80.0 0.0.3.255 any
+access-list 110 deny ip 204.19.38.0 0.0.1.255 any
+access-list 110 deny ip 204.27.155.0 0.0.0.255 any
+access-list 110 deny ip 204.44.32.0 0.0.15.255 any
+access-list 110 deny ip 204.44.208.0 0.0.15.255 any
+access-list 110 deny ip 204.44.224.0 0.0.15.255 any
+access-list 110 deny ip 204.52.96.0 0.0.31.255 any
+access-list 110 deny ip 204.52.184.0 0.0.0.255 any
+access-list 110 deny ip 204.52.255.0 0.0.0.255 any
+access-list 110 deny ip 204.57.16.0 0.0.15.255 any
+access-list 110 deny ip 204.61.96.0 0.0.31.255 any
+access-list 110 deny ip 204.62.177.0 0.0.0.255 any
+access-list 110 deny ip 204.63.64.0 0.0.63.255 any
+access-list 110 deny ip 204.74.32.0 0.0.31.255 any
+access-list 110 deny ip 204.75.147.0 0.0.0.255 any
+access-list 110 deny ip 204.75.228.0 0.0.0.255 any
+access-list 110 deny ip 204.80.164.0 0.0.0.255 any
+access-list 110 deny ip 204.80.180.0 0.0.0.255 any
+access-list 110 deny ip 204.80.198.0 0.0.0.255 any
+access-list 110 deny ip 204.86.16.0 0.0.15.255 any
+access-list 110 deny ip 204.87.136.0 0.0.0.255 any
+access-list 110 deny ip 204.87.175.0 0.0.0.255 any
+access-list 110 deny ip 204.87.199.0 0.0.0.255 any
+access-list 110 deny ip 204.87.233.0 0.0.0.255 any
+access-list 110 deny ip 204.88.160.0 0.0.15.255 any
+access-list 110 deny ip 204.89.224.0 0.0.0.255 any
+access-list 110 deny ip 204.91.136.0 0.0.7.255 any
+access-list 110 deny ip 204.106.128.0 0.0.63.255 any
+access-list 110 deny ip 204.106.192.0 0.0.31.255 any
+access-list 110 deny ip 204.107.132.0 0.0.0.255 any
+access-list 110 deny ip 204.107.208.0 0.0.0.255 any
+access-list 110 deny ip 204.107.237.0 0.0.0.255 any
+access-list 110 deny ip 204.110.144.0 0.0.15.255 any
+access-list 110 deny ip 204.115.128.0 0.0.7.255 any
+access-list 110 deny ip 204.126.32.0 0.0.15.255 any
+access-list 110 deny ip 204.126.48.0 0.0.7.255 any
+access-list 110 deny ip 204.126.56.0 0.0.3.255 any
+access-list 110 deny ip 204.126.60.0 0.0.1.255 any
+access-list 110 deny ip 204.126.244.0 0.0.1.255 any
+access-list 110 deny ip 204.128.32.0 0.0.15.255 any
+access-list 110 deny ip 204.128.151.0 0.0.0.255 any
+access-list 110 deny ip 204.128.180.0 0.0.0.255 any
+access-list 110 deny ip 204.130.16.0 0.0.15.255 any
+access-list 110 deny ip 204.130.167.0 0.0.0.255 any
+access-list 110 deny ip 204.130.195.0 0.0.0.255 any
+access-list 110 deny ip 204.147.64.0 0.0.7.255 any
+access-list 110 deny ip 204.147.96.0 0.0.15.255 any
+access-list 110 deny ip 204.147.240.0 0.0.15.255 any
+access-list 110 deny ip 204.194.64.0 0.0.7.255 any
+access-list 110 deny ip 204.225.159.0 0.0.0.255 any
+access-list 110 deny ip 204.225.210.0 0.0.0.255 any
+access-list 110 deny ip 204.227.32.0 0.0.31.255 any
+access-list 110 deny ip 204.232.0.0 0.0.63.255 any
+access-list 110 deny ip 204.235.16.0 0.0.15.255 any
+access-list 110 deny ip 204.238.35.0 0.0.0.255 any
+access-list 110 deny ip 204.238.40.0 0.0.0.255 any
+access-list 110 deny ip 204.238.137.0 0.0.0.255 any
+access-list 110 deny ip 204.238.170.0 0.0.0.255 any
+access-list 110 deny ip 204.238.183.0 0.0.0.255 any
+access-list 110 deny ip 204.255.32.0 0.0.31.255 any
+access-list 110 deny ip 205.137.0.0 0.0.15.255 any
+access-list 110 deny ip 205.142.104.0 0.0.3.255 any
+access-list 110 deny ip 205.143.8.0 0.0.7.255 any
+access-list 110 deny ip 205.144.0.0 0.0.15.255 any
+access-list 110 deny ip 205.144.176.0 0.0.15.255 any
+access-list 110 deny ip 205.148.128.0 0.0.63.255 any
+access-list 110 deny ip 205.148.192.0 0.0.63.255 any
+access-list 110 deny ip 205.151.58.0 0.0.0.255 any
+access-list 110 deny ip 205.151.128.0 0.0.31.255 any
+access-list 110 deny ip 205.151.216.0 0.0.0.255 any
+access-list 110 deny ip 205.159.45.0 0.0.0.255 any
+access-list 110 deny ip 205.159.174.0 0.0.0.255 any
+access-list 110 deny ip 205.159.180.0 0.0.0.255 any
+access-list 110 deny ip 205.159.201.0 0.0.0.255 any
+access-list 110 deny ip 205.159.241.0 0.0.0.255 any
+access-list 110 deny ip 205.166.45.0 0.0.0.255 any
+access-list 110 deny ip 205.166.77.0 0.0.0.255 any
+access-list 110 deny ip 205.166.84.0 0.0.0.255 any
+access-list 110 deny ip 205.166.87.0 0.0.0.255 any
+access-list 110 deny ip 205.166.130.0 0.0.0.255 any
+access-list 110 deny ip 205.166.168.0 0.0.0.255 any
+access-list 110 deny ip 205.166.183.0 0.0.0.255 any
+access-list 110 deny ip 205.166.211.0 0.0.0.255 any
+access-list 110 deny ip 205.172.244.0 0.0.3.255 any
+access-list 110 deny ip 205.175.160.0 0.0.31.255 any
+access-list 110 deny ip 205.189.71.0 0.0.0.255 any
+access-list 110 deny ip 205.189.72.0 0.0.1.255 any
+access-list 110 deny ip 205.189.207.0 0.0.0.255 any
+access-list 110 deny ip 205.203.0.0 0.0.31.255 any
+access-list 110 deny ip 205.203.224.0 0.0.31.255 any
+access-list 110 deny ip 205.207.134.0 0.0.0.255 any
+access-list 110 deny ip 205.210.29.0 0.0.0.255 any
+access-list 110 deny ip 205.210.107.0 0.0.0.255 any
+access-list 110 deny ip 205.210.139.0 0.0.0.255 any
+access-list 110 deny ip 205.210.171.0 0.0.0.255 any
+access-list 110 deny ip 205.210.172.0 0.0.3.255 any
+access-list 110 deny ip 205.210.249.0 0.0.0.255 any
+access-list 110 deny ip 205.211.172.0 0.0.0.255 any
+access-list 110 deny ip 205.211.179.0 0.0.0.255 any
+access-list 110 deny ip 205.214.96.0 0.0.31.255 any
+access-list 110 deny ip 205.214.128.0 0.0.31.255 any
+access-list 110 deny ip 205.233.19.0 0.0.0.255 any
+access-list 110 deny ip 205.233.156.0 0.0.0.255 any
+access-list 110 deny ip 205.233.220.0 0.0.0.255 any
+access-list 110 deny ip 205.233.224.0 0.0.15.255 any
+access-list 110 deny ip 205.236.18.0 0.0.0.255 any
+access-list 110 deny ip 205.236.23.0 0.0.0.255 any
+access-list 110 deny ip 205.236.185.0 0.0.0.255 any
+access-list 110 deny ip 205.236.189.0 0.0.0.255 any
+access-list 110 deny ip 205.237.88.0 0.0.7.255 any
+access-list 110 deny ip 206.41.128.0 0.0.15.255 any
+access-list 110 deny ip 206.41.160.0 0.0.31.255 any
+access-list 110 deny ip 206.51.29.0 0.0.0.255 any
+access-list 110 deny ip 206.124.104.0 0.0.7.255 any
+access-list 110 deny ip 206.125.16.0 0.0.15.255 any
+access-list 110 deny ip 206.130.188.0 0.0.0.255 any
+access-list 110 deny ip 206.143.128.0 0.0.127.255 any
+access-list 110 deny ip 206.195.224.0 0.0.31.255 any
+access-list 110 deny ip 206.197.28.0 0.0.0.255 any
+access-list 110 deny ip 206.197.29.0 0.0.0.255 any
+access-list 110 deny ip 206.197.77.0 0.0.0.255 any
+access-list 110 deny ip 206.197.146.0 0.0.0.255 any
+access-list 110 deny ip 206.197.165.0 0.0.0.255 any
+access-list 110 deny ip 206.209.48.0 0.0.15.255 any
+access-list 110 deny ip 206.209.80.0 0.0.15.255 any
+access-list 110 deny ip 206.209.192.0 0.0.15.255 any
+access-list 110 deny ip 206.221.0.0 0.0.15.255 any
+access-list 110 deny ip 206.221.96.0 0.0.15.255 any
+access-list 110 deny ip 206.221.192.0 0.0.15.255 any
+access-list 110 deny ip 206.223.17.0 0.0.0.255 any
+access-list 110 deny ip 206.223.33.0 0.0.0.255 any
+access-list 110 deny ip 206.223.48.0 0.0.0.255 any
+access-list 110 deny ip 206.224.160.0 0.0.31.255 any
+access-list 110 deny ip 206.226.0.0 0.0.31.255 any
+access-list 110 deny ip 206.226.32.0 0.0.31.255 any
+access-list 110 deny ip 207.22.192.0 0.0.63.255 any
+access-list 110 deny ip 207.45.56.0 0.0.7.255 any
+access-list 110 deny ip 207.45.224.0 0.0.15.255 any
+access-list 110 deny ip 207.70.224.0 0.0.15.255 any
+access-list 110 deny ip 207.90.0.0 0.0.63.255 any
+access-list 110 deny ip 207.110.64.0 0.0.63.255 any
+access-list 110 deny ip 207.110.96.0 0.0.31.255 any
+access-list 110 deny ip 207.110.128.0 0.0.63.255 any
+access-list 110 deny ip 207.183.64.0 0.0.31.255 any
+access-list 110 deny ip 207.183.96.0 0.0.15.255 any
+access-list 110 deny ip 207.183.128.0 0.0.31.255 any
+access-list 110 deny ip 207.183.192.0 0.0.31.255 any
+access-list 110 deny ip 207.201.64.0 0.0.63.255 any
+access-list 110 deny ip 207.244.0.0 0.0.63.255 any
+access-list 110 deny ip 208.73.208.0 0.0.3.255 any
+access-list 110 deny ip 208.90.32.0 0.0.7.255 any
+access-list 110 deny ip 208.93.4.0 0.0.3.255 any
+access-list 110 deny ip 208.205.128.0 0.0.3.255 any
+access-list 110 deny ip 209.17.192.0 0.0.31.255 any
+access-list 110 deny ip 209.66.0.0 0.0.63.255 any
+access-list 110 deny ip 209.66.128.0 0.0.31.255 any
+access-list 110 deny ip 209.95.64.0 0.0.31.255 any
+access-list 110 deny ip 209.95.192.0 0.0.31.255 any
+access-list 110 deny ip 209.99.128.0 0.0.63.255 any
+access-list 110 deny ip 209.145.0.0 0.0.31.255 any
+access-list 110 deny ip 209.148.16.0 0.0.15.255 any
+access-list 110 deny ip 209.161.64.0 0.0.31.255 any
+access-list 110 deny ip 209.182.64.0 0.0.31.255 any
+access-list 110 deny ip 216.137.144.0 0.0.15.255 any
+access-list 110 deny ip 216.147.192.0 0.0.15.255 any
+access-list 110 deny ip 216.152.112.0 0.0.15.255 any
+access-list 110 deny ip 216.179.128.0 0.0.127.255 any
+access-list 110 deny ip 216.240.96.0 0.0.15.255 any
+access-list 110 deny ip 216.250.16.0 0.0.15.255 any
+access-list 110 deny ip 220.154.0.0 0.0.255.255 any
+access-list 110 deny ip 221.132.192.0 0.0.63.255 any
+access-list 110 deny ip 223.169.0.0 0.0.255.255 any
+access-list 110 deny ip 223.173.0.0 0.0.255.255 any
+access-list 110 deny ip 223.254.0.0 0.0.255.255 any
+access-list 110 deny ip 2.57.186.0 0.0.1.255 any
+access-list 110 deny ip 5.188.11.0 0.0.0.255 any
+access-list 110 deny ip 27.112.32.0 0.0.31.255 any
+access-list 110 deny ip 31.210.20.0 0.0.0.255 any
+access-list 110 deny ip 43.57.0.0 0.0.255.255 any
+access-list 110 deny ip 43.181.0.0 0.0.255.255 any
+access-list 110 deny ip 45.91.227.0 0.0.0.255 any
+access-list 110 deny ip 46.148.112.0 0.0.0.255 any
+access-list 110 deny ip 46.148.120.0 0.0.0.255 any
+access-list 110 deny ip 46.148.127.0 0.0.0.255 any
+access-list 110 deny ip 58.2.0.0 0.0.127.255 any
+access-list 110 deny ip 62.112.16.0 0.0.7.255 any
+access-list 110 deny ip 76.74.36.0 0.0.0.255 any
+access-list 110 deny ip 79.110.22.0 0.0.0.255 any
+access-list 110 deny ip 91.193.75.0 0.0.0.255 any
+access-list 110 deny ip 91.200.81.0 0.0.0.255 any
+access-list 110 deny ip 91.200.82.0 0.0.0.255 any
+access-list 110 deny ip 91.200.83.0 0.0.0.255 any
+access-list 110 deny ip 91.200.164.0 0.0.0.255 any
+access-list 110 deny ip 91.208.245.0 0.0.0.255 any
+access-list 110 deny ip 91.216.3.0 0.0.0.255 any
+access-list 110 deny ip 91.243.93.0 0.0.0.255 any
+access-list 110 deny ip 103.149.68.0 0.0.0.255 any
+access-list 110 deny ip 116.79.0.0 0.0.255.255 any
+access-list 110 deny ip 119.227.224.0 0.0.31.255 any
+access-list 110 deny ip 120.64.0.0 0.0.255.255 any
+access-list 110 deny ip 120.67.0.0 0.0.255.255 any
+access-list 110 deny ip 120.128.128.0 0.0.127.255 any
+access-list 110 deny ip 120.128.192.0 0.0.63.255 any
+access-list 110 deny ip 120.129.0.0 0.0.127.255 any
+access-list 110 deny ip 120.129.128.0 0.0.127.255 any
+access-list 110 deny ip 120.130.0.0 0.0.255.255 any
+access-list 110 deny ip 120.130.128.0 0.0.63.255 any
+access-list 110 deny ip 153.85.0.0 0.0.255.255 any
+access-list 110 deny ip 162.222.215.0 0.0.0.255 any
+access-list 110 deny ip 178.159.97.0 0.0.0.255 any
+access-list 110 deny ip 178.159.100.0 0.0.0.255 any
+access-list 110 deny ip 178.159.107.0 0.0.0.255 any
+access-list 110 deny ip 185.14.192.0 0.0.0.255 any
+access-list 110 deny ip 185.14.193.0 0.0.0.255 any
+access-list 110 deny ip 185.14.195.0 0.0.0.255 any
+access-list 110 deny ip 185.71.0.0 0.0.3.255 any
+access-list 110 deny ip 185.140.53.0 0.0.0.255 any
+access-list 110 deny ip 193.233.175.0 0.0.0.255 any
+access-list 110 deny ip 194.5.98.0 0.0.0.255 any
+access-list 110 deny ip 197.242.100.0 0.0.3.255 any
+access-list 110 deny ip 197.242.104.0 0.0.7.255 any
+access-list 110 deny ip 197.242.112.0 0.0.15.255 any
+access-list 110 deny ip 200.226.128.0 0.0.63.255 any
+access-list 110 deny ip 200.226.192.0 0.0.63.255 any
+access-list 110 deny ip 204.2.189.0 0.0.0.255 any
+access-list 110 deny ip 204.141.204.0 0.0.0.255 any
+access-list 110 deny ip 208.12.64.0 0.0.31.255 any
+access-list 110 deny ip 210.57.128.0 0.0.63.255 any
+access-list 110 deny ip 210.57.192.0 0.0.15.255 any
+access-list 110 deny ip 212.193.30.0 0.0.0.255 any
+access-list 110 deny ip 213.130.88.0 0.0.3.255 any
+access-list 110 deny ip 213.176.20.0 0.0.3.255 any
+access-list 110 permit tcp any any gt 1024 established
+access-list 110 permit udp host 62.76.205.225 any eq isakmp
+access-list 110 permit udp host 62.76.205.225 any eq non500-isakmp
+access-list 110 permit esp host 62.76.205.225 any
+access-list 110 permit tcp host 62.76.205.225 any eq 4500
+access-list 110 permit udp any host 62.192.225.113 range rip 590
+access-list 110 permit udp any any eq isakmp
+access-list 110 permit esp any host 62.192.225.113
+access-list 110 permit udp any any eq non500-isakmp
+access-list 110 permit tcp any any eq 4500
+access-list 110 permit udp host 212.53.40.40 any range 200 1024
+access-list 110 permit tcp host 188.68.31.191 any eq 22
+access-list 110 permit tcp host 91.227.17.131 host 62.192.225.117 eq 22
+access-list 110 permit tcp host 178.170.189.45 host 62.192.225.125 eq 2020
+access-list 110 permit tcp host 178.170.189.45 host 62.192.225.125 eq 443
+access-list 110 permit tcp host 178.170.189.45 host 62.192.225.125 eq www
+access-list 110 permit tcp host 188.170.0.245 host 62.192.225.125 eq 2020
+access-list 110 permit tcp host 188.170.0.245 host 62.192.225.125 eq 443
+access-list 110 permit tcp host 188.170.0.245 host 62.192.225.125 eq www
+access-list 110 permit udp any any eq netbios-ns
+access-list 110 permit udp any any eq netbios-dgm
+access-list 110 permit udp any any eq ntp
+access-list 110 permit tcp any any eq smtp
+access-list 110 permit tcp any any eq ftp
+access-list 110 permit tcp any any eq ftp-data
+access-list 110 permit tcp any any eq 47
+access-list 110 permit tcp any any eq 50
+access-list 110 permit udp any any eq tftp
+access-list 110 permit tcp any any eq www
+access-list 110 permit tcp any any eq 81
+access-list 110 permit tcp any any eq 84
+access-list 110 permit udp any any eq 84
+access-list 110 permit tcp any any eq 88
+access-list 110 permit udp any any eq 88
+access-list 110 permit tcp any any eq pop3
+access-list 110 permit tcp any any eq 137
+access-list 110 permit tcp any any eq 138
+access-list 110 permit tcp any any eq 143
+access-list 110 permit tcp any host 62.192.225.119 eq 160
+access-list 110 permit udp any host 62.192.225.119 eq 160
+access-list 110 permit tcp any host 62.192.225.119 eq 161
+access-list 110 permit udp any host 62.192.225.119 eq snmp
+access-list 110 permit tcp any host 62.192.225.119 eq 162
+access-list 110 permit udp any host 62.192.225.119 eq snmptrap
+access-list 110 permit tcp any any eq 443
+access-list 110 permit tcp any any eq 465
+access-list 110 permit tcp any any eq 554
+access-list 110 permit tcp any any eq 993
+access-list 110 permit tcp any any eq 995
+access-list 110 permit tcp any any eq 1144
+access-list 110 permit tcp any any eq 1883
+access-list 110 permit tcp any any range 2020 2030
+access-list 110 permit tcp any any eq 2080
+access-list 110 permit tcp any any eq 2225
+access-list 110 permit tcp any any eq 3050
+access-list 110 permit tcp any any eq 3051
+access-list 110 permit tcp any any eq 3053
+access-list 110 permit tcp any any eq 3055
+access-list 110 permit tcp any any eq 3060
+access-list 110 permit tcp any any eq 3062
+access-list 110 permit tcp any any eq 3063
+access-list 110 permit tcp any any eq 3067
+access-list 110 permit tcp any any eq 3068
+access-list 110 permit tcp any any eq 3075
+access-list 110 permit tcp any any eq 3078
+access-list 110 permit tcp any any eq 3079
+access-list 110 permit tcp any any eq 3082
+access-list 110 permit tcp any any eq 3087
+access-list 110 permit tcp any any eq 3098
+access-list 110 permit tcp any any eq 3232
+access-list 110 permit tcp any any eq 3234
+access-list 110 permit tcp any any eq 3345
+access-list 110 permit tcp any any eq 3366
+access-list 110 permit tcp any any eq 3389
+access-list 110 permit tcp any any eq 3478
+access-list 110 permit udp any any eq 3478
+access-list 110 permit tcp any any eq 3790
+access-list 110 permit tcp any any eq 3791
+access-list 110 permit tcp any any eq 3780
+access-list 110 permit tcp any any eq 4003
+access-list 110 permit tcp any any eq 4004
+access-list 110 permit tcp any any eq 4006
+access-list 110 permit tcp any any eq 4222
+access-list 110 permit tcp any any eq 4223
+access-list 110 permit tcp any any eq 4244
+access-list 110 permit tcp any any eq 4702
+access-list 110 permit tcp any any eq 4801
+access-list 110 permit tcp any any eq 4803
+access-list 110 permit tcp any any eq 5603
+access-list 110 permit tcp any any eq 5001
+access-list 110 permit udp any any eq 5004
+access-list 110 permit udp any any eq 5005
+access-list 110 permit tcp any any eq 5010
+access-list 110 permit tcp any any eq 5011
+access-list 110 permit tcp any any eq 5060
+access-list 110 permit udp any any eq 5060
+access-list 110 permit tcp any any eq 5090
+access-list 110 permit udp any any eq 5090
+access-list 110 permit tcp host 79.104.55.66 host 62.192.225.115 range 5100 5199
+access-list 110 permit tcp host 217.21.210.56 host 62.192.225.115 range 5100 5199
+access-list 110 permit tcp host 91.122.196.243 host 62.192.225.115 range 5100 5199
+access-list 110 permit tcp any host 62.192.225.115 range 5123 5199
+access-list 110 permit tcp any any eq 5222
+access-list 110 permit tcp any any eq 5223
+access-list 110 permit tcp any any eq 5228
+access-list 110 permit tcp any any eq 5242
+access-list 110 permit tcp any any eq 5243
+access-list 110 permit tcp any any eq 5670
+access-list 110 permit tcp any any eq 5690
+access-list 110 permit tcp any any range 6100 6299
+access-list 110 permit udp any any range 6100 6299
+access-list 110 permit tcp any any range 7115 7125
+access-list 110 permit udp any any eq 7500
+access-list 110 permit tcp any any eq 7985
+access-list 110 permit udp any any eq 7985
+access-list 110 permit tcp any any eq 8001
+access-list 110 permit tcp any any eq 8008
+access-list 110 permit tcp any any eq 8054
+access-list 110 permit tcp any any eq 8080
+access-list 110 permit tcp any any eq 8081
+access-list 110 permit tcp any any eq 8082
+access-list 110 permit tcp any any eq 8083
+access-list 110 permit tcp any any eq 8084
+access-list 110 permit tcp any any eq 8085
+access-list 110 permit tcp any any eq 8086
+access-list 110 permit tcp any any eq 8088
+access-list 110 permit tcp any any eq 8280
+access-list 110 permit tcp any any eq 8091
+access-list 110 permit tcp any any eq 8443
+access-list 110 permit tcp any any eq 8444
+access-list 110 permit tcp any any eq 8650
+access-list 110 permit tcp any any eq 8651
+access-list 110 permit tcp any any eq 8843
+access-list 110 permit tcp any any eq 8880
+access-list 110 permit tcp any any eq 8888
+access-list 110 permit udp any host 62.192.225.113 range 9000 9500
+access-list 110 permit tcp any any eq 9000
+access-list 110 permit tcp any any eq 9393
+access-list 110 permit tcp any any eq 9696
+access-list 110 permit udp any any eq 10001
+access-list 110 permit tcp any any eq 12300
+access-list 110 permit tcp any any eq 12305
+access-list 110 permit tcp any any eq 12310
+access-list 110 permit tcp any any eq 12311
+access-list 110 permit tcp any any eq 12312
+access-list 110 permit tcp any any eq 12315
+access-list 110 permit tcp any any eq 12320
+access-list 110 permit tcp any any eq 12325
+access-list 110 permit tcp any any eq 12330
+access-list 110 permit tcp any any eq 12335
+access-list 110 permit tcp any any eq 12340
+access-list 110 permit tcp any any eq 12345
+access-list 110 permit udp any any eq 12345
+access-list 110 permit tcp any any eq 12360
+access-list 110 permit tcp any any eq 13389
+access-list 110 permit tcp any any eq 17240
+access-list 110 permit tcp any any eq 17243
+access-list 110 permit tcp any any eq 17017
+access-list 110 permit tcp any any eq 18578
+access-list 110 permit tcp host 79.104.55.66 any range 20101 20103
+access-list 110 permit tcp host 217.21.210.56 any range 20101 20103
+access-list 110 permit tcp any any eq 33333
+access-list 110 permit tcp any any eq 41690
+access-list 110 permit tcp any any eq 50131
+access-list 110 permit tcp any any eq 50132
+access-list 110 permit tcp any host 62.192.225.119 range 49152 65535
+access-list 110 permit udp any host 62.192.225.119 range 49152 65535
+access-list 110 permit tcp any host 62.192.225.121 range 49152 65535
+access-list 110 permit udp any host 62.192.225.121 range 49152 65535
+access-list 110 permit tcp any host 62.192.225.122 range 49152 65535
+access-list 110 permit udp any host 62.192.225.122 range 49152 65535
+access-list 110 permit tcp any host 78.37.97.154 range 18080 18090
+access-list 110 permit tcp any host 78.37.97.156 range 55536 55541
+access-list 110 permit udp any host 78.37.97.156 range 55536 55541
+access-list 110 permit udp any host 78.37.97.157 range 3478 3481
+access-list 110 permit tcp any host 78.37.97.157 range 49152 65535
+access-list 110 permit udp any host 78.37.97.157 range 49152 65535
+access-list 110 permit tcp any host 62.192.225.113 range 1024 65535
+access-list 110 permit udp any host 62.192.225.113 range 1024 65535
+access-list 110 permit tcp any eq domain any
+access-list 110 permit udp any eq domain any
+access-list 110 permit tcp any any eq domain
+access-list 110 permit gre any any
+access-list 110 permit icmp any any
+access-list 110 deny ip any any
+end
+wr
